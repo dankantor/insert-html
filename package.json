@@ -1,0 +1,15 @@
+{
+  "author": "Dan Kantor <dan.kantor@gmail.com> (http://dankantor.com)",
+  "name": "insert-html",
+  "description": "Use a promise and requestAnimationFrame to insert HTML.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/dankantor/insert-html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dankantor/insert-html.git"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
